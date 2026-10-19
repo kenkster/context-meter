@@ -1,0 +1,5 @@
+{
+  "name": "kenkster-mods",
+  "owner": { "name": "kenkster" },
+  "plugins": [{ "name": "context-meter", "source": "./" }]
+}

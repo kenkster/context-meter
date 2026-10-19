@@ -1,0 +1,1 @@
+{ "name": "context-meter", "version": "0.1.0", "description": "Shows context window fill and plan usage above the prompt, and warns when a chat gets heavy", "types": "./types/index.d.ts" }
